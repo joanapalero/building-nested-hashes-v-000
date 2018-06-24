@@ -1,6 +1,6 @@
 def bonus
   epic_tragedy[:status] = "Dead"
-  puts epic_tragedy
+  # puts epic_tragedy
   # epic_tragedy = 
   {
    :montague => {
